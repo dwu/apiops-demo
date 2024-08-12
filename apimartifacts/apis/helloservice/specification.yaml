@@ -9,10 +9,11 @@ paths:
   /:
     post:
       summary: hello
+      description: hello
       operationId: hello
       responses:
         '200':
-          description: 
+          description: ''
 components:
   securitySchemes:
     apiKeyHeader:
