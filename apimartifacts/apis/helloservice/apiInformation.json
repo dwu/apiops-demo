@@ -1,0 +1,19 @@
+{
+  "properties": {
+    "path": "helloService",
+    "apiRevision": "1",
+    "authenticationSettings": {},
+    "description": "",
+    "isCurrent": true,
+    "displayName": "helloService",
+    "protocols": [
+      "https"
+    ],
+    "serviceUrl": "https://apiops-demo-backend.azurewebsites.net/api/httpTrigger",
+    "subscriptionKeyParameterNames": {
+      "header": "Ocp-Apim-Subscription-Key",
+      "query": "subscription-key"
+    },
+    "subscriptionRequired": true
+  }
+}

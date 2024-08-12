@@ -1,0 +1,9 @@
+{
+  "properties": {
+    "displayName": "helloservice",
+    "description": "Demo hello service ",
+    "approvalRequired": false,
+    "state": "published",
+    "subscriptionRequired": true
+  }
+}
